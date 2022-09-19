@@ -1,6 +1,5 @@
-# A multimodal model for the diagnosis and subgroups in luminal breast cancer  
-
-We developed a sequential multimodal model for the diagnosis and subgroups of luminal BC. A weakly supervised deep learning framework named BSNet was trained for     diagnosis in luminal BC based on multi-view unlabeled mammography of 2321 mammography cases (9284 images) and validated on the real-world external heterogeneous cohor
+# Improving diagnosis and treatment efficiency based on multimodal data with distinguishing HR+ breast cancer
+We developed a sequential multimodal framework for the diagnosis and subgroups of luminal BC. A weakly supervised deep learning framework named BSNet was trained for     diagnosis in luminal BC based on multi-view unlabeled mammography of 2321 mammography cases (9284 images) and validated on the real-world external heterogeneous cohor
 
 
 ## Getting Started
